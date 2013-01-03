@@ -24,7 +24,7 @@ FirstApp::Application.routes.draw do
   #       get 'sold'
   #     end
   #   end
-
+# making a change so that something gets pushed up
   # Sample resource route with sub-resources:
   #   resources :products do
   #     resources :comments, :sales
